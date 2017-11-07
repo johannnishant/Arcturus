@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 com/HelloController.class
 com/MainApp.class
+=======
+com\MainApp.class
+com\HelloController.class
+>>>>>>> 19c026226810025145f164e326521184e1f0771f
